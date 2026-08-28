@@ -5,67 +5,52 @@
   <img align="right" alt="An animated badge showing Affinity, Procreate, and Figma." src="https://raw.githubusercontent.com/sago-cream/sago-cream/main/design.svg">
 </h1>
 
-## What I'm doing
-- Building stuff to make my (maybe even ours) life easier
+- Building stuff to make my life easier
 - Working with NTHU CCC to modernize the academic information system
 - Building Japanese learning tools at Sessatakuma
 - Keeping my illustration account on life support (Yeah I will draw tomorrow)
 
+<a href="https://hsichen.dev/links"><kbd>Find me elsewhere -></kbd></a>
+
 ## Current Projects
 
 ### Built for Taiwanese
-- **[OnTrack][ontrack]** — See your next train with zero taps
-- **[ColorInvo][color-invo]** — Pick the best color for your invoice barcode (and add a cat scratching it)
+- **[OnTrack][ontrack]** — Check train info with zero taps
+- **[ColorInvo][color-invo]** — Invoice barcode widget with nice colors and cats
 
 ### Japanese Learning Tools
-- **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana auto-marking tool
-- **[JaCarda][JaCarda]** — Create polished vocabulary cards in one click
+- **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana analyzer
+- **[JaCarda][JaCarda]** — Create polished word cards in one click
 
 ### Better Campus Systems
-- **[ccxpLite][ccxpLite]** — A faster, cleaner NTHU Academic Information System experience (200+ users)
-- **[ccxp-decaptcha][ccxp-decaptcha]** — OCR model training pipeline for NTHU CCXP and OAuth captchas
+- **[ccxpLite][ccxpLite]** — A cleaner NTHU Academic Information System experience (200+ users)
+- **[ccxp-decaptcha][ccxp-decaptcha]** — OCR model training pipeline for NTHU CCXP/OAuth captchas
 - **[EZE3][eze3]** — One-click access from NYCU Portal to E3
 
 ### Everyday Tools
-- **[Homepage][homepage]** — Customizable browser homepage with a keyboard-first bookmark launcher
-- **[HandyTab][handy-tab]** — Open your browser homepage with a three-finger tap on your touchpad (or a hand wave if you want)
-- **[Sago Drop][sago-drop]** — Turn large videos into previewable links so you can send it in Discord
-
-### Built for Devs
-- **[Badgical][badgical]** — Make your README badges come to life
-- **[Comux][comux]** — See Codex usage in your menubar across accounts and workspaces
-
-### My Dev Workflow
-- **[Rail][rail]** — Start building your app and keep your agent on the rails with one command
-- **[AGENTS.md][agents.md]** — So 5.6 Sol behaves
-- **[Skillbook][skillbook]** — Skills I add to Codex for quicker, better workflow
-- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
-
-### Games
-- **[Atomize][atomize]** — A nerdy prime factorization PVP mobile game
+- **[Homepage][homepage]** — Customizable browser homepage with a bookmark launcher
+- **[HandyTab][handy-tab]** — Open your browser homepage with a quick three-finger tap
+- **[Sago Drop][sago-drop]** — Drop and upload large videos to send as links in Discord
 
 ### Bots & Infra
 - **[Mini Sago][mini-sago]** — A Discord bot for... everything?
-- **[Sago Media][sago-media]** — Self-hosted media backend powering Sago Drop
-- **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for Mini Sago, Obsidian LiveSync, Homepage, and Sago Media
+- **[Sago Cloud][sago-cloud]** — Self-hosted infra for Mini Sago, Sago Media, Obsidian LiveSync, and Homepage's SSR
+- **[Sago Media][sago-media]** — Media backend powering Sago Drop
 
-### Me
-- **[links][links]** — One page for finding me around the internet
-- **[hsichen.dev][hsichen.dev]** — Minimal personal project index page
+### Built for Devs
+- **[Badgical][badgical]** — Make your README badges come to life
+- **[Comux][comux]** — Monitor multi-account Codex usage in your menubar
+
+### My Dev Workflow
+- **[Rail][rail]** — Start building your app while keeping your agents on the rails
+- **[Skillbook][skillbook]** — Skills I use
+- **[AGENTS.md][agents.md]** — So 5.6 Sol behaves
+- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
 
 ## Experience
 
 - Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
 - Contributed to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], [Self-hosted LiveSync][Self-hosted LiveSync] and [Rosé Pine][Rosé Pine].
-
-[design-badge]: https://raw.githubusercontent.com/sago-cream/sago-cream/main/design.svg
-[languages-badge]: 
-[frontend-badge]: 
-
-[Lucide]: https://github.com/lucide-icons/lucide
-[Svgl]: https://github.com/pheralb/svgl
-[Self-hosted LiveSync]: https://github.com/vrtmrz/obsidian-livesync
-[Rosé Pine]: https://github.com/rose-pine/vscode
 
 [ontrack]: https://github.com/sago-cream/ontrack
 [color-invo]: https://github.com/sago-cream/color-invo
@@ -85,10 +70,11 @@
 [fish-alias]: https://github.com/sago-cream/fish-alias
 [fish-git-alias]: https://github.com/sago-cream/fish-git-alias
 [agents.md]: https://github.com/sago-cream/agents.md
-[atomize]: https://github.com/sago-cream/atomize
 [mini-sago]: https://github.com/sago-cream/mini-sago
 [sago-cloud]: https://github.com/sago-cream/sago-cloud
-[hsichen.dev]: https://github.com/sago-cream/hsichen.dev
-[links]: https://github.com/sago-cream/links
 
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
+[Lucide]: https://github.com/lucide-icons/lucide
+[Svgl]: https://github.com/pheralb/svgl
+[Self-hosted LiveSync]: https://github.com/vrtmrz/obsidian-livesync
+[Rosé Pine]: https://github.com/rose-pine/vscode
