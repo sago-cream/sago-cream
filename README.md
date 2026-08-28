@@ -1,10 +1,9 @@
-# Hi, I'm Hsi 👋
-
-Design-focused builder
-
-![design][design-badge]
-![languages][languages-badge]
-![frontend][frontend-badge]
+<h1>
+  <span>Hi, I'm Hsi 👋</span>
+  <img align="right" alt="An animated badge showing Vite, Next.js, and React." src="https://raw.githubusercontent.com/sago-cream/sago-cream/main/frontend.svg">
+  <img align="right" alt="An animated badge showing TypeScript, JaveScript, and CSS." src="https://raw.githubusercontent.com/sago-cream/sago-cream/main/lang.svg">
+  <img align="right" alt="An animated badge showing Affinity, Procreate, and Figma." src="https://raw.githubusercontent.com/sago-cream/sago-cream/main/design.svg">
+</h1>
 
 ## What I'm doing
 - Building stuff to make my (maybe even ours) life easier
@@ -48,7 +47,7 @@ Design-focused builder
 ### Bots & Infra
 - **[Mini Sago][mini-sago]** — A Discord bot for... everything?
 - **[Sago Media][sago-media]** — Self-hosted media backend powering Sago Drop
-- **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for Mini Sago, Obsidian LiveSync, Homepage, Sago Media api, DB and more 
+- **[Sago Cloud][sago-cloud]** — Self-hosted infrastructure for Mini Sago, Obsidian LiveSync, Homepage, and Sago Media
 
 ### Me
 - **[links][links]** — One page for finding me around the internet
@@ -60,8 +59,8 @@ Design-focused builder
 - Contributed to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], [Self-hosted LiveSync][Self-hosted LiveSync] and [Rosé Pine][Rosé Pine].
 
 [design-badge]: https://raw.githubusercontent.com/sago-cream/sago-cream/main/design.svg
-[languages-badge]: https://raw.githubusercontent.com/sago-cream/sago-cream/main/lang.svg
-[frontend-badge]: https://raw.githubusercontent.com/sago-cream/sago-cream/main/frontend.svg
+[languages-badge]: 
+[frontend-badge]: 
 
 [Lucide]: https://github.com/lucide-icons/lucide
 [Svgl]: https://github.com/pheralb/svgl
@@ -82,14 +81,11 @@ Design-focused builder
 [comux]: https://github.com/sago-cream/comux
 [sago-drop]: https://github.com/sago-cream/sago-drop
 [sago-media]: https://github.com/sago-cream/sago-media
-[human-out-of-loop]: https://github.com/sago-cream/human-out-of-loop
 [skillbook]: https://github.com/sago-cream/skillbook
-[skills]: https://github.com/sago-cream/skills
 [fish-alias]: https://github.com/sago-cream/fish-alias
 [fish-git-alias]: https://github.com/sago-cream/fish-git-alias
 [agents.md]: https://github.com/sago-cream/agents.md
 [atomize]: https://github.com/sago-cream/atomize
-[goose]: https://github.com/sago-cream/goose
 [mini-sago]: https://github.com/sago-cream/mini-sago
 [sago-cloud]: https://github.com/sago-cream/sago-cloud
 [hsichen.dev]: https://github.com/sago-cream/hsichen.dev
