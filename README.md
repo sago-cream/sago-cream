@@ -37,7 +37,7 @@ Design-focused builder
 - **[Comux][comux]** — See Codex usage in your menubar across accounts and workspaces
 
 ### My Dev Workflow
-- **[create-hsi-app][create-hsi-app]** — Kickstart a Vite/Next.js app with best practices
+- **[Rail][rail]** — Start building your app and keep your agent on the rails with one command
 - **[AGENTS.md][agents.md]** — So 5.6 Sol behaves
 - **[Skillbook][skillbook]** — Skills I add to Codex for quicker, better workflow
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
@@ -78,7 +78,7 @@ Design-focused builder
 [AkuMa]: https://github.com/sessatakuma/AkuMa
 [JaCarda]: https://github.com/sessatakuma/JaCarda
 [badgical]: https://github.com/sago-cream/badgical
-[create-hsi-app]: https://github.com/sago-cream/create-hsi-app
+[rail]: https://github.com/sago-cream/rail
 [comux]: https://github.com/sago-cream/comux
 [sago-drop]: https://github.com/sago-cream/sago-drop
 [sago-media]: https://github.com/sago-cream/sago-media
