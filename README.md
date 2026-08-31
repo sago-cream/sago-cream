@@ -1,8 +1,8 @@
 <h1>
   <span>Hi, I'm Hsi 👋</span>
-  <img align="right" alt="An animated badge showing Vite, Next.js, and React." src="https://raw.githubusercontent.com/sago-cream/sago-cream/main/frontend.svg">
-  <img align="right" alt="An animated badge showing TypeScript, JaveScript, and CSS." src="https://raw.githubusercontent.com/sago-cream/sago-cream/main/lang.svg">
-  <img align="right" alt="An animated badge showing Affinity, Procreate, and Figma." src="https://raw.githubusercontent.com/sago-cream/sago-cream/main/design.svg">
+  <img align="right" alt="An animated badge showing Vite, Next.js, and React." src="https://raw.githubusercontent.com/sago-cream/sago-cream/refs/heads/main/frontend.svg">
+  <img align="right" alt="An animated badge showing TypeScript, JaveScript, and CSS." src="https://raw.githubusercontent.com/sago-cream/sago-cream/refs/heads/main/lang.svg">
+  <img align="right" alt="An animated badge showing Affinity, Procreate, and Figma." src="https://raw.githubusercontent.com/sago-cream/sago-cream/refs/heads/main/design.svg">
 </h1>
 
 - Building stuff to make my life easier
