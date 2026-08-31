@@ -1,57 +1,58 @@
-<h1>
-  <span>Hi, I'm Hsi 👋</span>
-  <img align="right" alt="An animated badge showing Vite, Next.js, and React." src="https://raw.githubusercontent.com/sago-cream/sago-cream/refs/heads/main/frontend.svg">
-  <img align="right" alt="An animated badge showing TypeScript, JaveScript, and CSS." src="https://raw.githubusercontent.com/sago-cream/sago-cream/refs/heads/main/lang.svg">
-  <img align="right" alt="An animated badge showing Affinity, Procreate, and Figma." src="https://raw.githubusercontent.com/sago-cream/sago-cream/refs/heads/main/design.svg">
-</h1>
-
 - Building stuff to make my life easier
-- Working with NTHU CCC to modernize the academic information system
-- Building Japanese learning tools at Sessatakuma
-- Keeping my illustration account on life support (Yeah I will draw tomorrow)
+- Modernizing [NTHU CCXP][ccxp] with [NTHU CCC][ccc]
+- Being picky about UX at [Sessatakuma][s9a]
+- Keeping my illustration account on life support (yeah I will draw tomorrow)
+
+![An animated badge showing Affinity, Procreate, and Figma.][DESIGN]
+![An animated badge showing TypeScript, JaveScript, and CSS.][LANG]
+![An animated badge showing Vite, Next.js, and React.][FE] 
 
 <a href="https://hsichen.dev/links"><kbd>Find me elsewhere -></kbd></a>
 
-## Current Projects
+##  Current Projects
 
-### Built for Taiwanese
+### Made for Taiwan
 - **[OnTrack][ontrack]** — Check train info with zero taps
 - **[ColorInvo][color-invo]** — Invoice barcode widget with nice colors and cats
 
-### Japanese Learning Tools
+### Japanese Learning
 - **[AkuMa][AkuMa]** — Japanese pitch-accent & furigana analyzer
 - **[JaCarda][JaCarda]** — Create polished word cards in one click
 
-### Better Campus Systems
+### Campus Tools
 - **[ccxpLite][ccxpLite]** — A cleaner NTHU Academic Information System experience (200+ users)
 - **[ccxp-decaptcha][ccxp-decaptcha]** — OCR model training pipeline for NTHU CCXP/OAuth captchas
 - **[EZE3][eze3]** — One-click access from NYCU Portal to E3
 
 ### Everyday Tools
 - **[Homepage][homepage]** — Customizable browser homepage with a bookmark launcher
-- **[HandyTab][handy-tab]** — Open your browser homepage with a quick three-finger tap
-- **[Sago Drop][sago-drop]** — Drop and upload large videos to send as links in Discord
+- **[HandyTab][handy-tab]** — Open your browser homepage with one tap
+- **[Sago Drop][sago-drop]** — Send large videos to Discord
 
 ### Bots & Infra
 - **[Mini Sago][mini-sago]** — A Discord bot for... everything?
 - **[Sago Cloud][sago-cloud]** — Self-hosted infra for Mini Sago, Sago Media, Obsidian LiveSync, and Homepage's SSR
 - **[Sago Media][sago-media]** — Media backend powering Sago Drop
 
-### Built for Devs
+### Dev Tools
 - **[Badgical][badgical]** — Make your README badges come to life
 - **[Comux][comux]** — Monitor multi-account Codex usage in your menubar
-
-### My Dev Workflow
 - **[Rail][rail]** — Start building your app while keeping your agents on the rails
-- **[Skillbook][skillbook]** — Skills I use
+
+### My Workflow
 - **[AGENTS.md][agents.md]** — So 5.6 Sol behaves
+- **[Skillbook][skillbook]** — Skills I use
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
 
 ## Experience
 
-- Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
-- Freelance Software Engineer — Built an internal clinical operations system for [Taogeng Medical Group][Taogeng].
-- Contributed to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], [Self-hosted LiveSync][Self-hosted LiveSync] and [Rosé Pine][Rosé Pine].
+- Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU] as a frontend intern at Microsoft.
+- Built an internal clinical operations system for [Taogeng Medical Group][Taogeng].
+- Contributed to open source projects I love: [Lucide][Lucide], [Svgl][Svgl], [Obsidian LiveSync][Self-hosted LiveSync] and [Rosé Pine][Rosé Pine].
+
+[DESIGN]: https://raw.githubusercontent.com/sago-cream/sago-cream/refs/heads/main/design.svg
+[LANG]: https://raw.githubusercontent.com/sago-cream/sago-cream/refs/heads/main/lang.svg
+[FE]: https://raw.githubusercontent.com/sago-cream/sago-cream/refs/heads/main/frontend.svg
 
 [ontrack]: https://github.com/sago-cream/ontrack
 [color-invo]: https://github.com/sago-cream/color-invo
@@ -74,8 +75,12 @@
 [mini-sago]: https://github.com/sago-cream/mini-sago
 [sago-cloud]: https://github.com/sago-cream/sago-cloud
 
+[s9a]: https://github.com/sessatakuma
+
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
 [Taogeng]: https://www.drkidney.com.tw/
+[ccxp]: https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/
+[ccc]: https://ccc.site.nthu.edu.tw/
 [Lucide]: https://github.com/lucide-icons/lucide
 [Svgl]: https://github.com/pheralb/svgl
 [Self-hosted LiveSync]: https://github.com/vrtmrz/obsidian-livesync
