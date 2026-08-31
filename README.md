@@ -50,6 +50,7 @@
 ## Experience
 
 - Microsoft Frontend Intern — Shipped production features and UX/accessibility improvements for [Azure CU][Azure CU].
+- Freelance Software Engineer — Built an internal clinical operations system for [Taogeng Medical Group][Taogeng].
 - Contributed to open source projects I love — [Lucide][Lucide], [Svgl][Svgl], [Self-hosted LiveSync][Self-hosted LiveSync] and [Rosé Pine][Rosé Pine].
 
 [ontrack]: https://github.com/sago-cream/ontrack
@@ -74,6 +75,7 @@
 [sago-cloud]: https://github.com/sago-cream/sago-cloud
 
 [Azure CU]: https://contentunderstanding.ai.azure.com/home
+[Taogeng]: https://www.drkidney.com.tw/
 [Lucide]: https://github.com/lucide-icons/lucide
 [Svgl]: https://github.com/pheralb/svgl
 [Self-hosted LiveSync]: https://github.com/vrtmrz/obsidian-livesync
