@@ -1,11 +1,10 @@
-- Building stuff to make my life easier
-- Modernizing [NTHU CCXP][ccxp] with [NTHU CCC][ccc]
-- Being picky about UX at [Sessatakuma][s9a]
-- Keeping my illustration account on life support (yeah I will draw tomorrow)
-
 ![An animated badge showing Affinity, Procreate, and Figma.][DESIGN]
 ![An animated badge showing TypeScript, JaveScript, and CSS.][LANG]
 ![An animated badge showing Vite, Next.js, and React.][FE] 
+- Building stuff to make my life easier
+- Being picky about UX at [Sessatakuma][s9a]
+- Modernizing [NTHU CCXP][ccxp] with [NTHU CCC][ccc]
+- Keeping my illustration account on life support
 
 <a href="https://hsichen.dev/links"><kbd>Find me elsewhere -></kbd></a>
 
