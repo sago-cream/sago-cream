@@ -39,8 +39,7 @@
 - **[Rail][rail]** — Start building your app while keeping your agents on the rails
 
 ### My Workflow
-- **[AGENTS.md][agents.md]** — So 5.6 Sol behaves
-- **[Skillbook][skillbook]** — Skills I use
+- **[Skillbook][skillbook]** — Instructions and skills I add to my agents
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
 
 ## Experience
@@ -70,7 +69,6 @@
 [skillbook]: https://github.com/sago-cream/skillbook
 [fish-alias]: https://github.com/sago-cream/fish-alias
 [fish-git-alias]: https://github.com/sago-cream/fish-git-alias
-[agents.md]: https://github.com/sago-cream/agents.md
 [mini-sago]: https://github.com/sago-cream/mini-sago
 [sago-cloud]: https://github.com/sago-cream/sago-cloud
 
