@@ -39,7 +39,7 @@
 - **[Rail][rail]** — Start building your app while keeping your agents on the rails
 
 ### My Workflow
-- **[Skillbook][skillbook]** — Skills I use
+- **[Skillbook][skillbook]** — Instructions and skills I add to my agents
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
 
 ## Experience
