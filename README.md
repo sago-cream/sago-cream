@@ -19,7 +19,7 @@
 - **[JaCarda][JaCarda]** — Create polished word cards in one click
 
 ### Campus Tools
-- **[ccxpLite][ccxpLite]** — A cleaner NTHU Academic Information System experience (200+ users)
+- **[ccxpLite][ccxpLite]** — A cleaner NTHU Academic Information System experience (350+ users)
 - **[ccxp-decaptcha][ccxp-decaptcha]** — OCR model training pipeline for NTHU CCXP/OAuth captchas
 - **[EZE3][eze3]** — One-click access from NYCU Portal to E3
 
@@ -30,13 +30,13 @@
 
 ### Bots & Infra
 - **[Mini Sago][mini-sago]** — A Discord bot for... everything?
-- **[Sago Cloud][sago-cloud]** — Self-hosted infra for Mini Sago, Sago Media, Obsidian LiveSync, and Homepage's SSR
 - **[Sago Media][sago-media]** — Media backend powering Sago Drop
+- **[Sago Cloud][sago-cloud]** — Self-hosted infra for Mini Sago, Sago Media, and Obsidian LiveSync
 
 ### Dev Tools
 - **[Badgical][badgical]** — Make your README badges come to life
 - **[Comux][comux]** — Monitor multi-account Codex usage in your menubar
-- **[Rail][rail]** — Start building your app while keeping your agents on the rails
+- **[Rail][rail]** — App scaffolding that forces best practices on your agents
 
 ### My Workflow
 - **[Skillbook][skillbook]** — Instructions and skills I add to my agents
