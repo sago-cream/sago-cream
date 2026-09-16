@@ -26,21 +26,18 @@
 ### Everyday Tools
 - **[Homepage][homepage]** — Customizable browser homepage with a bookmark launcher
 - **[HandyTab][handy-tab]** — Open your browser homepage with one tap
-- **[Sago Drop][sago-drop]** — Send large videos to Discord
+- **[SagoDrop][sago-drop]** — Send large videos to Discord
 
 ### Bots & Infra
-- **[Mini Sago][mini-sago]** — A Discord bot for... everything?
-- **[Sago Media][sago-media]** — Media backend powering Sago Drop
-- **[Sago Cloud][sago-cloud]** — Self-hosted infra for Mini Sago, Sago Media, and Obsidian LiveSync
+- **[MiniSago][mini-sago]** — A Discord bot for... everything?
+- **[SagoMedia][sago-media]** — Media backend powering Sago Drop
+- **[SagoCloud][sago-cloud]** — Self-hosted infra for Mini Sago, Sago Media, and Obsidian LiveSync
 
 ### Dev Tools
 - **[Badgical][badgical]** — Make your README badges come to life
 - **[Comux][comux]** — Monitor multi-account Codex usage in your menubar
 - **[Rail][rail]** — App scaffolding that forces best practices on your agents
-
-### My Workflow
-- **[Skills][skills]** — Instructions and skills I add to my agents
-- **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
+- **[skills][skills]** — Skills I add to agents for cleaner workflows
 
 ## Experience
 
