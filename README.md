@@ -39,7 +39,7 @@
 - **[Rail][rail]** — App scaffolding that forces best practices on your agents
 
 ### My Workflow
-- **[Skillbook][skillbook]** — Instructions and skills I add to my agents
+- **[Skills][skills]** — Instructions and skills I add to my agents
 - **[fish-alias][fish-alias]** & **[fish-git-alias][fish-git-alias]** — For faster dev workflows
 
 ## Experience
@@ -66,7 +66,7 @@
 [comux]: https://github.com/sago-cream/comux
 [sago-drop]: https://github.com/sago-cream/sago-drop
 [sago-media]: https://github.com/sago-cream/sago-media
-[skillbook]: https://github.com/sago-cream/skillbook
+[skills]: https://github.com/sago-cream/skills
 [fish-alias]: https://github.com/sago-cream/fish-alias
 [fish-git-alias]: https://github.com/sago-cream/fish-git-alias
 [mini-sago]: https://github.com/sago-cream/mini-sago
