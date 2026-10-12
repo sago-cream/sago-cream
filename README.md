@@ -19,14 +19,14 @@
 - **[JaCarda][JaCarda]** — Create polished word cards in one click
 
 ### Campus Tools
-- **[ccxpLite][ccxpLite]** — A cleaner NTHU Academic Information System experience (350+ users)
+- **[ccxpLite][ccxpLite]** — A cleaner NTHU Academic Information System experience (440+ users)
 - **[ccxp-decaptcha][ccxp-decaptcha]** — OCR model training pipeline for NTHU CCXP/OAuth captchas
 - **[EZE3][eze3]** — One-click access from NYCU Portal to E3
 
 ### Everyday Tools
 - **[Homepage][homepage]** — Customizable browser homepage with a bookmark launcher
 - **[HandyTab][handy-tab]** — Open your browser homepage with one tap
-- **[SagoDrop][sago-drop]** — Send large videos to Discord
+- **[SagoDrop][sago-drop]** — Send large videos on Discord
 
 ### Bots & Infra
 - **[MiniSago][mini-sago]** — A Discord bot for... everything?
