@@ -10,7 +10,7 @@
 
 ##  Current Projects
 
-### Made for Taiwan
+### Taiwan Stuff
 - **[OnTrack][ontrack]** — Check train info with zero taps
 - **[ColorInvo][color-invo]** — Invoice barcode widget with nice colors and cats
 
@@ -19,7 +19,7 @@
 - **[JaCarda][JaCarda]** — Create polished word cards in one click
 
 ### Campus Tools
-- **[ccxpLite][ccxpLite]** — A cleaner NTHU Academic Information System experience (440+ users)
+- **[ccxpLite][ccxpLite]** — A cleaner NTHU Academic Information System experience (450+ users)
 - **[ccxp-decaptcha][ccxp-decaptcha]** — OCR model training pipeline for NTHU CCXP/OAuth captchas
 - **[EZE3][eze3]** — One-click access from NYCU Portal to E3
 
