@@ -27,6 +27,7 @@
 - **[Homepage][homepage]** — Customizable browser homepage with a bookmark launcher
 - **[HandyTab][handy-tab]** — Open your browser homepage with one tap
 - **[SagoDrop][sago-drop]** — Send large videos on Discord
+- **[Airloom][airloom]** — Dynamic wallpaper from lock screen to desktop
 
 ### Bots & Infra
 - **[MiniSago][mini-sago]** — A Discord bot for... everything?
@@ -62,6 +63,7 @@
 [rail]: https://github.com/sago-cream/rail
 [comux]: https://github.com/sago-cream/comux
 [sago-drop]: https://github.com/sago-cream/sago-drop
+[airloom]: https://github.com/sago-cream/Airloom
 [sago-media]: https://github.com/sago-cream/sago-media
 [skills]: https://github.com/sago-cream/skills
 [fish-alias]: https://github.com/sago-cream/fish-alias
